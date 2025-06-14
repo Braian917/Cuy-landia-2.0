@@ -9134,5 +9134,11 @@
     },
     "done": true
   },
+  "morevillagers:recipes/woodworking_table": {
+    "criteria": {
+      "has_leaves": "2025-06-14 21:16:43 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
